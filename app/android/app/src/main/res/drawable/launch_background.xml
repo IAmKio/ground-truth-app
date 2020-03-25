@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Modify this file to customize your launch splash screen -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/groundTruthYellow" />
+
+    <!-- You can insert your own image assets here -->
+    <item
+        android:width="211dp"
+        android:height= "125dp"
+        android:gravity="center"
+        >
+        <bitmap
+            android:gravity="fill"
+            android:src="@drawable/ground_truth" />
+    </item>
+</layer-list>

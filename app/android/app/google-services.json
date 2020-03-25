@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "764869948606",
+    "firebase_url": "https://wearequarantined.firebaseio.com",
+    "project_id": "wearequarantined",
+    "storage_bucket": "wearequarantined.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764869948606:android:1911827cb2a54c8c77daef",
+        "android_client_info": {
+          "package_name": "com.digitalindustria.apps.android.groundtruth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764869948606-s78b849dk8rf3gdet4fm9oal5ceskliq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5U9OUL64k2GoB034SpRH48j4ctQVj0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764869948606-s78b849dk8rf3gdet4fm9oal5ceskliq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764869948606-07gus2ofj0qr3hkqe7uthuj6i9pl11nc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digitalindustria.apps.ios.quarantined"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764869948606:android:9c98b9eaee4e53fc77daef",
+        "android_client_info": {
+          "package_name": "com.digitalindustria.apps.android.quarantined"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764869948606-dneidro29ui0odso4ehqkdqcr2e685jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalindustria.apps.android.quarantined",
+            "certificate_hash": "f0e75f10ca3d03f3cc5f8091087ecfb7cdbd2dbd"
+          }
+        },
+        {
+          "client_id": "764869948606-s78b849dk8rf3gdet4fm9oal5ceskliq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5U9OUL64k2GoB034SpRH48j4ctQVj0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764869948606-s78b849dk8rf3gdet4fm9oal5ceskliq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764869948606-07gus2ofj0qr3hkqe7uthuj6i9pl11nc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digitalindustria.apps.ios.quarantined"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

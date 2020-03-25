@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>764869948606-07gus2ofj0qr3hkqe7uthuj6i9pl11nc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.764869948606-07gus2ofj0qr3hkqe7uthuj6i9pl11nc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCXQGLZP7633Adt_wE9sedmq-oS9TFc9n0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>764869948606</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.digitalindustria.apps.ios.quarantined</string>
+	<key>PROJECT_ID</key>
+	<string>wearequarantined</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wearequarantined.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:764869948606:ios:771e39f325e7d24b77daef</string>
+	<key>DATABASE_URL</key>
+	<string>https://wearequarantined.firebaseio.com</string>
+</dict>
+</plist>
